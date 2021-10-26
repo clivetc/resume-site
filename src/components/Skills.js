@@ -14,6 +14,33 @@ export default class Skills extends Component {
                             <p>HTML</p>
                             <div className="progress grey lighten-1">
                                 <div className="determinate blue" 
+                                style={{width: '95%'}}></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="row mt-top">
+                        <div className="col s6">
+                            <p>CSS</p>
+                            <div className="progress grey lighten-1">
+                                <div className="determinate blue" 
+                                style={{width: '100%'}}></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="row mt-top">
+                        <div className="col s6">
+                            <p>React js</p>
+                            <div className="progress grey lighten-1">
+                                <div className="determinate blue" 
+                                style={{width: '85%'}}></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="row mt-top">
+                        <div className="col s6">
+                            <p>Node js</p>
+                            <div className="progress grey lighten-1">
+                                <div className="determinate blue" 
                                 style={{width: '80%'}}></div>
                             </div>
                         </div>
@@ -21,6 +48,15 @@ export default class Skills extends Component {
                     <div className="row mt-top">
                         <div className="col s6">
                             <p>Python</p>
+                            <div className="progress grey lighten-1">
+                                <div className="determinate blue" 
+                                style={{width: '70%'}}></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="row mt-top">
+                        <div className="col s6">
+                            <p>PHP (Laravel)</p>
                             <div className="progress grey lighten-1">
                                 <div className="determinate blue" 
                                 style={{width: '70%'}}></div>

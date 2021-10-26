@@ -10,10 +10,7 @@ export default class About extends Component {
                             <strong>ABOUT ME</strong>
                         </h6>
                         <p className="grey-text">
-                        I am well-presented candidate, I am a dynamic, well-spoken and vibrant individual who is intrigued by cutting edge 
-                        technology. I describe myself as creative, determined, social and an ambitious individual who is never limited by 
-                        boundaries. I am driven by pushing the boundaries of the ordinary and creating the best out of every situation. I am 
-                        dedicated to my work and I always an extra mile to get my job done to satisfactory. 
+                        I am well-presented candidate, I am a dynamic, well-spoken and vibrant individual who is intrigued by cutting edge technology. I describe myself as creative, determined, social and an ambitious individual who is never limited by boundaries. I am driven by pushing the boundaries of the ordinary and creating the best out of every situation. I am dedicated to my work and I always an go extra mile to get my job done to satisfactory. 
                         </p>
                     </div>
                     <div className='card-action'>

@@ -18,19 +18,19 @@ export default class Education extends Component {
                         <tbody>
                             <tr>
                                 <td>BSc Computer Information Systems</td>
-                                <td>Jan 2021</td>
+                                <td>Feb 2021</td>
                             </tr>
                         </tbody>
                         <tbody>
                             <tr>
-                                <td>Telecommuincation Systems part Diploma</td>
+                                <td>Telecommunications Systems part Diploma</td>
                                 <td>June 2013</td>
                             </tr>
                         </tbody>
                         <tbody>
                             <tr>
-                                <td>Telecommuincation Systems Certificate</td>
-                                <td>Jan 2021</td>
+                                <td>Telecommunications Systems Certificate</td>
+                                <td>Jan 2012</td>
                             </tr>
                         </tbody>
                     </table>

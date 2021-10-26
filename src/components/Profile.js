@@ -1,5 +1,5 @@
 import React, {Component } from 'react';
-import Image from '../components/images/myprofpic.jpg';
+import IMAGES from './Profilepic';
 import {HashLink as Link} from "react-router-hash-link";
 
 export default class Profile extends Component {
@@ -8,7 +8,7 @@ export default class Profile extends Component {
             <div>
                 <div className="card">
                     <div className="card-image">
-                        <img className="activator" src={Image} alt="Tendai C Chikwape"></img>
+                        <img className="activator" src={IMAGES.tcprofpic} alt="Tendai C Chikwape"></img>
                         <Link className="btn-floating halfway-fab waves-effect wave-light grey">
                             <i className="material-icons activator" more_vert></i>
                         </Link>
@@ -28,7 +28,7 @@ export default class Profile extends Component {
                         <i class="fab fa-facebook grey-text text-darken-4 social style"></i>
                         <i class="fab fa-twitter grey-text text-darken-4 social style"></i>
                         <i class="fab fa-instagram grey-text text-darken-4 social style"></i>
-                        <i class="fab fa-linkeIn grey-text text-darken-4 social style"></i>
+                        <i class="fab fa-linkdeIn grey-text text-darken-4 social style"></i>
                     </p>
                     </div>
                 </div>

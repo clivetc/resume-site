@@ -16,27 +16,27 @@ export default class Navbar extends Component {
                             </Link>
                             <ul className="right hide-on-med and down">
                                 <li>
-                                    <Link t="/">
+                                    <Link to="/">
                                         <i className="fas fa-home"></i>Home
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link t="/skills">
+                                    <Link to="/skills">
                                         <i className="far fa-laptop"></i>Skills
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link t="/experience">
+                                    <Link to="/experience">
                                         <i className="fas fa-id-badge"></i>Experience
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link t="/education">
+                                    <Link to="/education">
                                         <i className="fas fa-graduation-cap"></i>Education
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link t="/portfolio">
+                                    <Link to="/portfolio">
                                         <i className="fas fa-briefcase"></i>Porfolio
                                     </Link>
                                 </li>
