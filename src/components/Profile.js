@@ -1,5 +1,5 @@
 import React, {Component } from 'react';
-import IMAGES from './Profilepic';
+import Profilepic from './images/profpic.jpg';
 import {HashLink as Link} from "react-router-hash-link";
 
 export default class Profile extends Component {
@@ -8,7 +8,7 @@ export default class Profile extends Component {
             <div>
                 <div className="card">
                     <div className="card-image">
-                        <img className="activator" src={IMAGES.tcprofpic} alt="Tendai C Chikwape"></img>
+                        <img className="activator" src={Profilepic} alt="Tendai C Chikwape"></img>
                         <Link className="btn-floating halfway-fab waves-effect wave-light grey">
                             <i className="material-icons activator" more_vert></i>
                         </Link>

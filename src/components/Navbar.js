@@ -1,5 +1,6 @@
 import React, {Component } from 'react';
 import { HashLink as Link } from 'react-router-hash-link';
+import {AiOutlineMenu} from 'react-icons/ai';
 
 export default class Navbar extends Component {
     render(){
@@ -12,7 +13,7 @@ export default class Navbar extends Component {
                                 Tendai Resume
                             </Link>
                             <Link to="/" data-target="side-nav" className="sidenav-trigger">
-                                <i className="material-icons">menu</i>
+                                <AiOutlineMenu/>
                             </Link>
                             <ul className="right hide-on-med and down">
                                 <li>

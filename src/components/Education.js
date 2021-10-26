@@ -21,12 +21,26 @@ export default class Education extends Component {
                                 <td>Feb 2021</td>
                             </tr>
                         </tbody>
+                        <thead>
+                            <tr>
+                                <th>Title</th>
+                                <th>Date-of-issue</th>
+                                <th></th>
+                            </tr>
+                        </thead>
                         <tbody>
                             <tr>
                                 <td>Telecommunications Systems part Diploma</td>
                                 <td>June 2013</td>
                             </tr>
                         </tbody>
+                        <thead>
+                            <tr>
+                                <th>Title</th>
+                                <th>Date-of-issue</th>
+                                <th></th>
+                            </tr>
+                        </thead>
                         <tbody>
                             <tr>
                                 <td>Telecommunications Systems Certificate</td>
